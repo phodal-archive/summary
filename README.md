@@ -8,6 +8,8 @@
 
 ###第二期 JS测试: [https://github.com/artisanstack/js-test-basic](https://github.com/artisanstack/js-test-basic)
 
+###第三期 JS重构: [https://github.com/artisanstack/js-refactor-2](https://github.com/artisanstack/js-refactor-2)
+
 ##订阅 
 
 点击右上角的``watch``即可订阅。
